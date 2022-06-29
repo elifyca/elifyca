@@ -47,7 +47,6 @@ Here are some ideas to get you started:
 <a href="https://postman.com" target="_blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a> 
 <a href="https://heroku.com" target="_blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="30" height="30"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> </a> 
-<a href="https://www.jetbrains.com/ruby/" target="_blank" rel=”noopener”> <img src="https://resources.jetbrains.com/storage/products/rubymine/img/meta/rubymine_logo_300x300.png" alt="rubymine" width="30" height="30"/> </a> 
 <a href="https://www.netlify.com/" target="_blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="30" height="30"/> </a> 
 <a href="https://trello.com/en" target="_blank" rel=”noopener”> <img src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="trello" width="30" height="30"/> </a>
 
